@@ -1,0 +1,38 @@
+=============== May 2, 2020 (EDT) ===============
+17:53:10.873329 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:53:10.887330 db@open opening
+17:53:10.889330 version@stat F·[] S·0B[] Sc·[]
+17:53:10.893330 db@janitor F·2 G·0
+17:53:10.893330 db@open done T·6.0003ms
+17:53:10.957334 db@close closing
+17:53:10.958334 db@close done T·1ms
+=============== May 2, 2020 (EDT) ===============
+18:00:19.124821 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:00:19.125821 version@stat F·[] S·0B[] Sc·[]
+18:00:19.125821 db@open opening
+18:00:19.126821 journal@recovery F·1
+18:00:19.136822 journal@recovery recovering @1
+18:00:19.155823 memdb@flush created L0@2 N·622 S·50KiB "\x02d\xfc..\x19Ba,v429":"\xfe\x88\xcf..H\xef\xcc,v362"
+18:00:19.166824 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+18:00:19.182824 db@janitor F·3 G·0
+18:00:19.182824 db@open done T·57.0032ms
+=============== May 2, 2020 (EDT) ===============
+18:35:30.790043 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:35:30.792043 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+18:35:30.792043 db@open opening
+18:35:30.793043 journal@recovery F·1
+18:35:30.800043 journal@recovery recovering @3
+18:35:30.806044 memdb@flush created L0@5 N·3 S·447B "Dat..ion,v624":"cli..\x05\r\x0e,v626"
+18:35:30.814044 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+18:35:30.822045 db@janitor F·4 G·0
+18:35:30.822045 db@open done T·30.0017ms
+=============== May 2, 2020 (EDT) ===============
+20:57:27.794730 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:57:27.796730 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+20:57:27.796730 db@open opening
+20:57:27.801731 journal@recovery F·1
+20:57:27.807731 journal@recovery recovering @6
+20:57:27.813731 memdb@flush created L0@8 N·1 S·217B "Las..der,v628":"Las..der,v628"
+20:57:27.818732 version@stat F·[3] S·51KiB[51KiB] Sc·[0.75]
+20:57:27.827732 db@janitor F·5 G·0
+20:57:27.828732 db@open done T·32.0018ms
