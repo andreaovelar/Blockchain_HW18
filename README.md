@@ -32,29 +32,29 @@ Open a new git bach and Please find below output of the the second node into min
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture6.PNG "CLOSE")
 
 
-#### 2. Part 2 
+#### 2. Part 2 - My crypto screenshots
 
-Please find below 
+We open the crypto wallet we use to configure the testnet
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture7.PNG "CLOSE")
 
-Please find below 9
+Please find below screenshot of the custom network using same parameters that we use on gitbash. http://127.0.0.1:8545 chain id 333 name banknet, we can see that it is prefunded with ETH (significant amount)
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture8.PNG "CLOSE")
 
-Please find below 10
+Please find below screenshot that shows that we sent 888 ETH to the account 
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture9.PNG "CLOSE")
 
-Please find below 11
+Please find below confirmation of the transaction
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture10.PNG "CLOSE")
 
-Please find below 12
+Please find below at the bottom of the image the transaction hash generated 0xf9500f525afb3a898543cd644ed8070ab6170859e68ea74cb1cff6fee33c2bb8  
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture11.PNG "CLOSE")
 
-Please find below 13
+Please find below on the gitbash the confirmation of the submitted transaction at the bottom with the same hash we saw on mycrypto 
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture12.PNG "CLOSE")
 
