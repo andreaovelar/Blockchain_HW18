@@ -25,13 +25,9 @@ Please find below initialization of the nodes using the genesis block using test
 
 Please find below output of the the first node into mining mode with the following command ./geth --datadir node1 --mine --minerthreads 1
 
-![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture5.PNG "CLOSE")
-
-Please find below output of the the second node into mining mode with the following command ./geth --datadir node2 --port 30304 --rpc --bootnodes"enode://da89aa7ca0466d909a0fbcf71ff621d6a80be4bb1a8a4d23addf2cb6aa37d4581668555933b279c448afc801119a909ba5fca66b5b363d04a8a0be4de9cc1fa2@127.0.0.1:30303" --ipcdisable 
-
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture55.PNG "CLOSE")
 
-Please find below 7
+Open a new git bach and Please find below output of the the second node into mining mode with the following command ./geth --datadir node2 --port 30304 --rpc --bootnodes"enode://da89aa7ca0466d909a0fbcf71ff621d6a80be4bb1a8a4d23addf2cb6aa37d4581668555933b279c448afc801119a909ba5fca66b5b363d04a8a0be4de9cc1fa2@127.0.0.1:30303" --ipcdisable 
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture6.PNG "CLOSE")
 
