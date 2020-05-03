@@ -58,12 +58,11 @@ Please find below on the gitbash the confirmation of the submitted transaction a
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture12.PNG "CLOSE")
 
-Please find below 14
+Please find below confirmation of the transaction with status pending, after a while it changed to successful  
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture13.PNG "CLOSE")
 
 ## Conclusions 
-* Conc 1 
-* Conc 2
-* Conc 3
-Blockchain HW 
+* We were able to use Puppeth, to generate your genesis block
+* We were able to use Geth, command-line tool, to create keys, initialize nodes, and connect the nodes together.
+* We use configure our network using The Clique Proof of Authority algorithm
