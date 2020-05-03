@@ -1,21 +1,21 @@
 # Blockchain_HW - HW 18 
 
-### first part
-#### 1. first part a  
+###  Set up your custom testnet blockchain
+#### 1. Puppeth, to generate your genesis block 
 
-Please find below 
+Please find below screenshot, please note the name of the testnet banknet using proof of authority
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture.PNG "CLOSE")
 
-Please find below 
+Please find below screenshot using address from my crypto wallet and selecting chain ID 333
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture1.PNG "CLOSE")
 
-Please find below 
+Please find below screenshot in which we export the genesis configuration we can see we created a banknet.json file 
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture2.PNG "CLOSE")
 
-Please find below 
+Using the banknet configuration we then proceed to create two nodes with the respective passwords, the screenshot show the public address of the key and the path for the secret key file 
 
 ![table](https://github.com/andreaovelar/Blockchain_HW18/blob/master/images/Capture3.PNG "CLOSE")
 
